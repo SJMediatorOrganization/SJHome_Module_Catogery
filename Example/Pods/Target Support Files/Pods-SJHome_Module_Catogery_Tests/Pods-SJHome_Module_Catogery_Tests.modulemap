@@ -1,0 +1,6 @@
+framework module Pods_SJHome_Module_Catogery_Tests {
+  umbrella header "Pods-SJHome_Module_Catogery_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
