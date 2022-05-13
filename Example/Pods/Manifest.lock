@@ -1,5 +1,5 @@
 PODS:
-  - SJHome_Module_Catogery (0.1.0)
+  - SJHome_Module_Catogery (1.0.0)
 
 DEPENDENCIES:
   - SJHome_Module_Catogery (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SJHome_Module_Catogery: 8636c47850fb72cf07cec146bbbeee9e962fa91f
+  SJHome_Module_Catogery: 96caf290731bab9a2e3785a6465b21a44f3872b8
 
 PODFILE CHECKSUM: 6acd2e96488fc729afffa3453ed92b8272ae70c4
 
