@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SJHome_Module_Catogery'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = '首页模块分类'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,5 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   #s.frameworks = 'UIKit'
-  #s.dependency 'CTMediator'
+  s.dependency 'CTMediator'
 end
