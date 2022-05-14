@@ -10,6 +10,6 @@
 
 @implementation CTMediator (SJHomeModule)
 - (UIViewController *)homeViewControllerWithParams:(NSDictionary *)params{
-    return [self performTarget:@"HomeModule" action:@"homeViewController" params:params shouldCacheTarget:NO];
+    return [self performTarget:@"SJHomeModule" action:@"HomeViewControllerWithParams:" params:params shouldCacheTarget:NO];
 }
 @end
