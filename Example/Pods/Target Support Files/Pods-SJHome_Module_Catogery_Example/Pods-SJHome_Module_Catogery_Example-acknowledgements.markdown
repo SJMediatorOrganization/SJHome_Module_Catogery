@@ -1,6 +1,11 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
+## CTMediator
+
+MIT
+
+
 ## SJHome_Module_Catogery
 
 Copyright (c) 2022 acct<blob>=0xE78B82E695B2E4BBA3E7A081 <15538509549@163.com>

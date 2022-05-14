@@ -1,15 +1,22 @@
 PODS:
-  - SJHome_Module_Catogery (1.0.0)
+  - CTMediator (46)
+  - SJHome_Module_Catogery (1.0.2):
+    - CTMediator
 
 DEPENDENCIES:
   - SJHome_Module_Catogery (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
 
 EXTERNAL SOURCES:
   SJHome_Module_Catogery:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SJHome_Module_Catogery: 96caf290731bab9a2e3785a6465b21a44f3872b8
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+  SJHome_Module_Catogery: d329798a4f9f0a8506dbf35e507b91db37591c56
 
 PODFILE CHECKSUM: 6acd2e96488fc729afffa3453ed92b8272ae70c4
 

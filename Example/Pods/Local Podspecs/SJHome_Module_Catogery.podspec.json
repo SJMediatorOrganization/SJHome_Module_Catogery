@@ -1,6 +1,6 @@
 {
   "name": "SJHome_Module_Catogery",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "首页模块分类",
   "description": "首页模块分类，对外暴露接口使用",
   "homepage": "https://github.com/SJMediatorOrganization/SJHome_Module_Catogery.git",
@@ -13,10 +13,15 @@
   },
   "source": {
     "git": "https://github.com/SJMediatorOrganization/SJHome_Module_Catogery.git",
-    "tag": "1.0.0"
+    "tag": "1.0.2"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "SJHome_Module_Catogery/Classes/**/*"
+  "source_files": "SJHome_Module_Catogery/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
 }

@@ -10,8 +10,9 @@
 #endif
 #endif
 
-#import "CTMediator+SJHomeModule.h"
+#import "CTMediator+HandyTools.h"
+#import "CTMediator.h"
 
-FOUNDATION_EXPORT double SJHome_Module_CatogeryVersionNumber;
-FOUNDATION_EXPORT const unsigned char SJHome_Module_CatogeryVersionString[];
+FOUNDATION_EXPORT double CTMediatorVersionNumber;
+FOUNDATION_EXPORT const unsigned char CTMediatorVersionString[];
 

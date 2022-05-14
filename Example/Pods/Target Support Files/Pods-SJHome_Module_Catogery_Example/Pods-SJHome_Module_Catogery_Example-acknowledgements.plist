@@ -14,6 +14,17 @@
 		</dict>
 		<dict>
 			<key>FooterText</key>
+			<string>MIT
+</string>
+			<key>License</key>
+			<string>MIT</string>
+			<key>Title</key>
+			<string>CTMediator</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
 			<string>Copyright (c) 2022 acct&lt;blob&gt;=0xE78B82E695B2E4BBA3E7A081 &lt;15538509549@163.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
