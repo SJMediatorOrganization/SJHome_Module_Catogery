@@ -10,7 +10,6 @@
 		285554312FED767519EDE315C0FDCBB4 /* Pods-SJHome_Module_Catogery_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F3885D0B365101C843C3A4D1646FE0DA /* Pods-SJHome_Module_Catogery_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		425702E6AF65909A46283709BF9EE9D8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59040624F92B050B2ECF8FA644B47678 /* Foundation.framework */; };
 		42BE4417ABDCD43233C41CF267134F18 /* CTMediator+HandyTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C0648475DECEEEAB1D6B831B4697928 /* CTMediator+HandyTools.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		47B8F37BA3F9194F4CDEAB41E591A4D2 /* ReplaceMe 06.34.44.m in Sources */ = {isa = PBXBuildFile; fileRef = 787560A90ACD1B8759CE937B2E7A1430 /* ReplaceMe 06.34.44.m */; };
 		4D4AD7509A4DCE0C983E7DEA8D88B0BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59040624F92B050B2ECF8FA644B47678 /* Foundation.framework */; };
 		57F913906FE82D421D710579974826C8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59040624F92B050B2ECF8FA644B47678 /* Foundation.framework */; };
 		61607132D98E72675C61592E900AE870 /* Pods-SJHome_Module_Catogery_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6155B61A0F3C4933B81680FC9CD556CF /* Pods-SJHome_Module_Catogery_Tests-dummy.m */; };
@@ -65,7 +64,7 @@
 		0D1F0DFDBF71ABE27E18CAFA3AE1D696 /* SJHome_Module_Catogery-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SJHome_Module_Catogery-Info.plist"; sourceTree = "<group>"; };
 		12D33251257F4BB9F32D73A6944CE28E /* Pods-SJHome_Module_Catogery_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SJHome_Module_Catogery_Tests.modulemap"; sourceTree = "<group>"; };
 		17B93FC06A7E0AF00D5EE0A51A02A6AF /* Pods-SJHome_Module_Catogery_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SJHome_Module_Catogery_Example-umbrella.h"; sourceTree = "<group>"; };
-		1B445C94848F9673FCD38213A3AF03AD /* SJHome_Module_Catogery.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SJHome_Module_Catogery.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1B445C94848F9673FCD38213A3AF03AD /* SJHome_Module_Catogery.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SJHome_Module_Catogery.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		31AB3045D7ACDB5EDF7E6A1FD0061AAF /* Pods-SJHome_Module_Catogery_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SJHome_Module_Catogery_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3345C9C333919D311EE6ACA12B5F69AF /* SJHome_Module_Catogery.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SJHome_Module_Catogery.debug.xcconfig; sourceTree = "<group>"; };
 		3A92541212B6E286D2D9A0C0AD9B4F02 /* Pods-SJHome_Module_Catogery_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SJHome_Module_Catogery_Example-Info.plist"; sourceTree = "<group>"; };
@@ -82,15 +81,14 @@
 		59040624F92B050B2ECF8FA644B47678 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6155B61A0F3C4933B81680FC9CD556CF /* Pods-SJHome_Module_Catogery_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SJHome_Module_Catogery_Tests-dummy.m"; sourceTree = "<group>"; };
 		68FD71EBA2CC98523D3AACCE8A0D43C8 /* CTMediator */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CTMediator; path = CTMediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		787560A90ACD1B8759CE937B2E7A1430 /* ReplaceMe 06.34.44.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "ReplaceMe 06.34.44.m"; path = "SJHome_Module_Catogery/Classes/ReplaceMe 06.34.44.m"; sourceTree = "<group>"; };
 		78C29CDE4D937F198C9989FC838DA321 /* CTMediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CTMediator.m; path = CTMediator/CTMediator/CTMediator.m; sourceTree = "<group>"; };
 		7A6D4CCC0667564B53D44D074F052743 /* SJHome_Module_Catogery.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SJHome_Module_Catogery.release.xcconfig; sourceTree = "<group>"; };
-		7D822AAAB876C85491E05E8B2E9F1E8F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		7D822AAAB876C85491E05E8B2E9F1E8F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		8A9F82DF8376D24988A4A626A6149ECE /* Pods-SJHome_Module_Catogery_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SJHome_Module_Catogery_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		8B02BFEF804BE8D3AF4D616B01339865 /* Pods-SJHome_Module_Catogery_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SJHome_Module_Catogery_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		8B512F4907981BB55E9859A8D676E87C /* CTMediator-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CTMediator-umbrella.h"; sourceTree = "<group>"; };
 		9A444AD508D9C46401262B02A5315A6E /* CTMediator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CTMediator-prefix.pch"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A1D8D3AF5F05FFE21CDD5700F3A7726F /* CTMediator-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CTMediator-Info.plist"; sourceTree = "<group>"; };
 		AB9A0FCD374925F5087277E68B1A2916 /* CTMediator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CTMediator.debug.xcconfig; sourceTree = "<group>"; };
 		B432EEFDC303B0C36F7EAAD96C2381FD /* Pods-SJHome_Module_Catogery_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SJHome_Module_Catogery_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -98,7 +96,7 @@
 		B91DE5ABAF2B9B35AB45761637059AF3 /* SJHome_Module_Catogery-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SJHome_Module_Catogery-umbrella.h"; sourceTree = "<group>"; };
 		BA66A333F28FD28A1365944C5719EF11 /* Pods-SJHome_Module_Catogery_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SJHome_Module_Catogery_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BC54550CA3DBF7000C1633C4B9A4FE74 /* SJHome_Module_Catogery */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SJHome_Module_Catogery; path = SJHome_Module_Catogery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C06808D3FD58BF61F741BEA9D9364391 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		C06808D3FD58BF61F741BEA9D9364391 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C168E621CDB7C59088C69ED827D0EF06 /* Pods-SJHome_Module_Catogery_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SJHome_Module_Catogery_Example-dummy.m"; sourceTree = "<group>"; };
 		CDDB13166FB1E2F273719C5161586F28 /* SJHome_Module_Catogery-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SJHome_Module_Catogery-prefix.pch"; sourceTree = "<group>"; };
 		CE0995F7449FBDA0D63751D05BBDEA8E /* Pods-SJHome_Module_Catogery_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SJHome_Module_Catogery_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -175,7 +173,6 @@
 				4F2E74791FBAEF93692D80AA8C0074CB /* CTMediator+HandyTools.m */,
 				BBE34334C3A810566C293A2E5FC95DE1 /* Support Files */,
 			);
-			name = CTMediator;
 			path = CTMediator;
 			sourceTree = "<group>";
 		};
@@ -201,7 +198,6 @@
 			children = (
 				EF8F3D70E4ADABFE2E670314D26962AA /* CTMediator+SJHomeModule.h */,
 				4F815A7492FCDF7201E526A1A3F9FB4F /* CTMediator+SJHomeModule.m */,
-				787560A90ACD1B8759CE937B2E7A1430 /* ReplaceMe 06.34.44.m */,
 				07C57DB29E5C0C151CDF245BA978A627 /* Pod */,
 				B351EA5D452733977F2ADDE1B03466F0 /* Support Files */,
 			);
@@ -514,7 +510,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD234D3E435A9A27264E29E964E15780 /* CTMediator+SJHomeModule.m in Sources */,
-				47B8F37BA3F9194F4CDEAB41E591A4D2 /* ReplaceMe 06.34.44.m in Sources */,
 				6323E17BCA3D346402DD945B67BCF7B5 /* SJHome_Module_Catogery-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -898,8 +893,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
