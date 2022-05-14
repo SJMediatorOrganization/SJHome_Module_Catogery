@@ -9,6 +9,7 @@
 #import "CTMediator+SJHomeModule.h"
 
 @implementation CTMediator (SJHomeModule)
+//首页模块页面
 - (UIViewController *)homeViewControllerWithParams:(NSDictionary *)params{
     return [self performTarget:@"SJHomeModule" action:@"HomeViewControllerWithParams" params:params shouldCacheTarget:NO];
 }
